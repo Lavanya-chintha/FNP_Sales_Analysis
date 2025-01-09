@@ -36,6 +36,12 @@ The dashboard provides visual insights into the sales data. Key visualizations i
 1. Download the Excel file: [Sales Analysis Dashboard](https://github.com/Lavanya-chintha/FNP_Sales_Analysis/tree/main)).
 2. Open the file in **Microsoft Excel**.
 3. Explore the interactive dashboard by using slicers and viewing charts.
+   
+## **Preview**  
+Here’s a glimpse of the dashboard:  
+![Churn Analysis Dashboard](https://github.com/Lavanya-chintha/FNP_Sales_Analysis/blob/main/FNP%20Sales%20Analysis%20Dashboard.png)
+
+---
 
 ## Key Insights
 
