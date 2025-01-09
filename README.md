@@ -33,7 +33,7 @@ The dashboard provides visual insights into the sales data. Key visualizations i
 
 ## How to Use This Project
 
-1. Download the Excel file: [Sales Analysis Dashboard](link-to-your-excel-file.xlsx).
+1. Download the Excel file: [Sales Analysis Dashboard](https://github.com/Lavanya-chintha/FNP_Sales_Analysis/tree/main)).
 2. Open the file in **Microsoft Excel**.
 3. Explore the interactive dashboard by using slicers and viewing charts.
 
@@ -44,13 +44,7 @@ The dashboard provides visual insights into the sales data. Key visualizations i
 3. **Top Cities by Orders:** Bhubaneshwar, Imphal, Dhanbad.
 4. **Customer Spending:** ₹4,652.19 on average.
 5. **Order-Delivery Time:** 5.7 days on average.
-
-## Files Included
-
-- **Dashboard File:** `sales_analysis_dashboard.xlsx`
-- **Problem Statement:** `FNP_problem_statement.pdf`
-- **Screenshots:** Dashboard previews.
-
+   
 ## Contact
 
 Created by: Sai Lavanya Chintha  
