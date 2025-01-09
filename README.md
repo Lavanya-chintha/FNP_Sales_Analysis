@@ -54,7 +54,7 @@ Here’s a glimpse of the dashboard:
 ## Contact
 
 Created by: Sai Lavanya Chintha  
-Email: lavanyasep2023@gmail.com  
+Email: lavanyachda@gmail.com  
 GitHub: Lavanya-Chintha(https://github.com/Lavanya-chintha)  
 
 ---
